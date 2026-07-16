@@ -28,7 +28,7 @@ Develop a modern data warehouse using SQL server to consolidate sales data, enab
 
     This insights empower stakeholders with key business metrics, enabling strategic descision-making.
     ## License
-    This project is licensed under the [MIT License](landingbay.site). You are free to use,modify and share this project with proper attribution.
+    This project is licensed under the [MIT License](LICENSE). You are free to use,modify and share this project with proper attribution.
 
     ## About me
     Hi there i'm Joseph Jude a Data Engineer and this is my pilot project on GIt.
