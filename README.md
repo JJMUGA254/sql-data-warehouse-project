@@ -1,4 +1,4 @@
-Data warehouse and Anlaytics project.
+## Data warehouse and Anlaytics project.
 
 Welcome to the **Data Warehouse and Analytics Project**
 
