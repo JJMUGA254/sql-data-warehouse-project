@@ -1,6 +1,6 @@
 Data warehouse and Anlaytics project.
 
-welcome to the **Data Warehouse and Analuytics Project**
+Welcome to the **Data Warehouse and Analytics Project**
 
 This project demonstrates a compresive data warehousing and anlytics solution,from  building a data to generating actionable insights.Designed as a portfolio project it highlights industry best practises in data engineering and anlytics.
 
