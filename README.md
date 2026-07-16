@@ -3,7 +3,7 @@
 Welcome to the **Data Warehouse and Analytics Project**
 
 This project demonstrates a compresive data warehousing and anlytics solution,from  building a data warehouse to generating actionable insights.Designed as a portfolio project it highlights industry best practises in data engineering and anlytics.
-----
+
 ## Project Recquirments
 
 ###  Building the Data Warehouse (Data Engineering)
