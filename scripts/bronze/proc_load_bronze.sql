@@ -1,12 +1,13 @@
 /* 
 ==================================================
-Stored Procedure:Load Bronze Layer (Source>>>>bronze)
+Stored Procedure:Load Bronze Layer from the source (Source>>>>bronze)
 ==================================================
 
 This stored procedure loads data from the sources to the bronze schema
 It perfoms the following functions:
 - Truncates bronze tables before loading data
 -uses th BULKINSERT command to load data from csv file to bronze tables
+
 
 Use example EXEC bronze.load_bronze */
 
